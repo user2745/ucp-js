@@ -1,0 +1,22 @@
+{
+    "name": "ucp-js",
+    "version": "1.0.0",
+    "description": "Universal Communication Protocol (UCP) for MQTT-based real-time communication in JavaScript",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test/test_ucp_client.js"
+    },
+    "keywords": [
+        "UCP",
+        "MQTT",
+        "IoT",
+        "real-time",
+        "communication"
+    ],
+    "author": "Kevin Kamto",
+    "license": "MIT",
+    "dependencies": {
+        "mqtt": "^4.2.8"
+    },
+    "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+}
